@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor Dólar V2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app">
+        <h1>USD → BRL</h1>
+        <p class="subtitulo">Cotação em tempo real via API</p>
+        <input type="number" id="valorDolar" placeholder="Valor em dólar">
+        <button id="btnConverter">Converter</button>
+        <div id="loading" class="hidden">Buscando cotação...</div>
+        <p id="resultado"></p>
+        <p id="erro" class="erro"></p>
+        <p id="infoCotacao" class="info"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
