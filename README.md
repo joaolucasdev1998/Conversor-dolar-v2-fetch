@@ -20,4 +20,4 @@ V2: busca cotação real via `fetch` na AwesomeAPI.
 Só abrir o `index.html` no navegador.
 
 ## Link V1 para comparação
-[Conversor V1 - Cotação Fixa]( https://github.com/joaolucasdev1998/Conversor-dolar-v2-fetch )
+( [Conversor V1 - Cotação Fixa](https://github.com/joaolucasdev1998/Conversor-dolar-dom-v1)
